@@ -1,0 +1,3 @@
+/home/rodrigo0345/dev/hobby/pong/build/CMakeFiles/app.dir
+/home/rodrigo0345/dev/hobby/pong/build/CMakeFiles/edit_cache.dir
+/home/rodrigo0345/dev/hobby/pong/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/sbin/cc  -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 CMakeFiles/app.dir/sources/game.c.o CMakeFiles/app.dir/sources/hashmap.c.o CMakeFiles/app.dir/sources/main.c.o CMakeFiles/app.dir/sources/server.c.o -o app  -Wl,-rpath,/usr/local/lib /usr/local/lib/libraylib.so 
